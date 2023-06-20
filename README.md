@@ -16,3 +16,15 @@ I use orca with a Moog mother32, try with your synths and edit the projects !!! 
 4. If you dont ear any sound, press the spacebar. 
 5. Edit and Enjoy !
 
+# Other info
+
+If you are intrested of this method to make music i advise you on this things make by Devine Lu Linvega from hundredrabbits...
+
+https://wiki.xxiivv.com/site/noton.html
+
+https://wiki.xxiivv.com/site/enfer.html
+
+https://hundredrabbits.itch.io/pilot
+
+# Thanks for the visit
+~ mark1n0
