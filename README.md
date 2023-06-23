@@ -10,7 +10,7 @@ I use orca with Ableton and the Moog mother32, try with your synths and edit the
 
 1. Download and install Orca from Hundredrabbits Github page : [ https://github.com/hundredrabbits/Orca ] 
 2. Check your MIDI IN-OUT device connection in the Orca MIDI menu
-3. Download the projects ".orca" and copy into Orca
+3. Download the projects ".orca", drag the file into Orca and press Enter
 4. If you dont ear any sound, press the spacebar. 
 5. Edit and Enjoy !
 
@@ -25,4 +25,4 @@ https://wiki.xxiivv.com/site/enfer.html
 https://hundredrabbits.itch.io/pilot
 
 # Thanks for the visit
-~ mark1n0
+🫶🏻 ~ mark1n0
