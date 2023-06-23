@@ -4,15 +4,13 @@ my orca projects for all.
 
 I use orca with Ableton and the Moog mother32, try with your synths and edit the projects !!! Good luck !
 
-~ mgxy0 ~
-
 # Simple instructions
 
-1. Download and install Orca from Hundredrabbits Github page : [ https://github.com/hundredrabbits/Orca ] 
-2. Check your MIDI IN-OUT device connection in the Orca MIDI menu
-3. Download the projects ".orca", drag the file into Orca and press Enter
-4. If you dont ear any sound, press the spacebar. 
-5. Edit and Enjoy !
+- 1. Download and install Orca from Hundredrabbits Github page : [ https://github.com/hundredrabbits/Orca ] 
+- 2. Check your MIDI IN-OUT device connection in the Orca MIDI menu
+- 3. Download the projects ".orca", drag the file into Orca and press Enter
+- 4. If you dont ear any sound, press the spacebar. 
+- 5. Edit and Enjoy !
 
 # Other info
 
