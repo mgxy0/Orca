@@ -4,7 +4,7 @@
 
 my orca projects for all.
 
-I use orca with a Moog mother32, try with your synths and edit the projects !!! Good luck !
+I use orca with Ableton and the Moog mother32, try with your synths and edit the projects !!! Good luck !
 
 ~ mgxy0 ~
 
